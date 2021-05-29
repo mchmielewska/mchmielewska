@@ -28,11 +28,11 @@ My portfolio: <a href="https://mch-portfolio.vercel.app/">https://mch-portfolio.
 <!-- This week I'm working on: -->
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 40 mins  ██████████████████████▓░░   91.04 % 
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JavaScript   11 hrs 27 mins  ███████████████████████░░   91.89 % 
+JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
 <!--
