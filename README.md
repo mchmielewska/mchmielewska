@@ -6,7 +6,7 @@
 #
 <br>
 
-I'm an aspiring developer with first technical experience at international companies. I have been improving my coding skills, both front- and backend, for around 2 years and now I'm ready to start coding professionally. I initially started with bootcamps and workshops. I've been intensely coding over the last 4 months and learning about full stack dev and cloud integrations (e.g. deployments). 
+I'm an aspiring developer with first technical experience at international companies. I have been improving my coding skills, both front- and backend, for around 2 years and now I'm ready to start coding professionally. I initially started with bootcamps and workshops. I've been intensely coding over the last 8 months and learning about full stack dev and cloud integrations (e.g. deployments). 
 
 <br>
 
