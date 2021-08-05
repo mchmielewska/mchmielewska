@@ -11,6 +11,7 @@ I'm an aspiring developer with first technical experience at international compa
 <br>
 
 My portfolio: <a href="https://mch-portfolio.vercel.app/">https://mch-portfolio.vercel.app</a>
+Sometimes I also work as a photographer - and I coded my portfolio from scratch!: <a href="https://www.monikachmielewska.com/">https://www.monikachmielewska.com/</a>
 
 <br><br>
 
