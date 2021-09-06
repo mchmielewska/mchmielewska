@@ -30,9 +30,7 @@ Sometimes I also work as a photographer - and I coded my portfolio from scratch!
 <!-- This week I'm working on: -->
 <!--START_SECTION:waka-->
 ```text
-SCSS         2 hrs 6 mins    █████████████▒░░░░░░░░░░░   53.62 % 
-JavaScript   1 hr 36 mins    ██████████▒░░░░░░░░░░░░░░   41.13 % 
-CSS          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
